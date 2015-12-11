@@ -19,7 +19,7 @@
 * 博客地址: [http://blog.csdn.net/aigestudio](http://blog.csdn.net/aigestudio)
 * 订阅地址: [http://blog.csdn.net/aigestudio/rss/list](http://blog.csdn.net/aigestudio/rss/list)
 
-### Android Central - Android Forums - News - Reviews - Help and Android Wallpapers
+### Android Central 
 
 * 博客地址: [http://www.androidcentral.com/](http://www.androidcentral.com/)
 * 订阅地址: [http://www.androidcentral.com/feed](http://www.androidcentral.com/feed)
@@ -29,25 +29,12 @@
 * 博客地址: [https://greenrobot.me](https://greenrobot.me)
 * 订阅地址: [https://greenrobot.me/feed/](https://greenrobot.me/feed/)
 
-### Android Developers Blog
-
-* 博客地址: [http://android-developers.blogspot.com/](http://android-developers.blogspot.com/)
-* 订阅地址: [http://feeds.feedburner.com/blogspot/hsDu](http://feeds.feedburner.com/blogspot/hsDu)
 
 ### Android Developers Blog
 
 * 博客地址: [http://android-developers.blogspot.com/](http://android-developers.blogspot.com/)
 * 订阅地址: [http://android-developers.blogspot.com/feeds/posts/default?alt=rss](http://android-developers.blogspot.com/feeds/posts/default?alt=rss)
 
-### Android Weekly Archive Feed
-
-* 博客地址: [http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)
-* 订阅地址: [http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19](http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19)
-
-### Android Weekly Archive Feed
-
-* 博客地址: [http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)
-* 订阅地址: [http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19](http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)
 
 ### Android开发技术周报
 
