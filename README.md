@@ -377,9 +377,22 @@
 * 博客地址：[http://blog.jobbole.com](http://blog.jobbole.com)
 * 订阅地址：[http://blog.jobbole.com/feed/](http://blog.jobbole.com/feed/)
 
+### 代震军
+
+* 博客地址： [http://www.cnblogs.com/daizhj/](http://www.cnblogs.com/daizhj/)
+* 订阅地址： [http://www.cnblogs.com/daizhj/rss/list](http://www.cnblogs.com/daizhj/rss/list)
+
+### ASCE1885
+
+* 博客地址：[http://blog.csdn.net/asce1885](http://blog.csdn.net/asce1885)
+* 订阅地址：[http://blog.csdn.net/asce1885/rss/list](http://blog.csdn.net/asce1885/rss/list)
+
 
 
 ## 变更记录
 
-* V1.0   
+* V1.00   
   * 2015年12月11日 初始撰写，感谢高建武老师。
+
+* V1.01 
+  * 2015年12月15日 增加 代震军、ASCE1885 
