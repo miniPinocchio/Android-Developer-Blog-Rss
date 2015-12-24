@@ -356,7 +356,9 @@
 * 博客地址: [http://chenqichao.me/](http://chenqichao.me/)
 * 订阅地址: [http://chenqichao.me/atom.xml](http://chenqichao.me/atom.xml)
 
-
+### 农民伯伯的blog
+* 博客地址: [http://www.cnblogs.com/over140/](http://www.cnblogs.com/over140/)
+* 订阅地址: [http://www.cnblogs.com/over140/rss](http://www.cnblogs.com/over140/rss)
 
 
 
